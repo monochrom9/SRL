@@ -31,6 +31,7 @@ import Skill from '@site/src/components/char/Skill'
 <TabItem value='batk' label='Basic ATK'>
 <Skill char={char} skill='batk' />
 
+ "Eko is cringe"
 </TabItem>
 <TabItem value='e' label='Skill'>
 <Skill char={char} skill='e' />
